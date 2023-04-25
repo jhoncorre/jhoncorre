@@ -1,4 +1,12 @@
-# 💫 About Me:
+
+
+![White Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/108435161/234140496-fcccd1cd-2b79-4e5f-9ebe-fab5b53a0c5b.png)
+
+
+
+
+
+# About me:
 Hola mi nombre es Jhon, estudio desarrollo de software y estoy proximo a graduarme en HENRY un bootcamp que estoy haciendo hace ya 6 meses en el cual he <br>aprendido mucho y poco a poco estoy avanzando en varios lenguajes de programacion como lo son JAVASCRIPT,CSS ,EXPRESS,NEXT,HAPI,MONGO,SQL,HTML <br>me siento orgullosos de estar en esta comunidad y tener un grupo de amigos con los cuales he ido desarrolando habilidades<br>para el desarrolo de software en distintos campos, ahora me siento con mas conocimientos y ganas de aprender mas y enfocarme mas en profundizar mas lenguajes<br>y crear mas proyectos en individual tanto como grupal, soy una persona que escucha concejos aprendo a ritmo rapido y me esfuerzo por aprender cada dia mas,<br>me gusta trabajar en grupo y aportar con mis ideas una solucion rapida y dinamica de los diferentes proyectos en los que he estado.<br>mis hobbies son las motos y la tecnologia, me pueden contactar en mis difrentes redes como lo son:<br>email: jhondcorrearuiz@gmail.com<br>linkedin:http://linkedin.com/in/jhon-correa-16b970243<br>git hub:jhoncorre
 
 
