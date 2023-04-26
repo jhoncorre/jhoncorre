@@ -7,7 +7,13 @@
 
 
 # About me:
-Hola mi nombre es Jhon, estudio desarrollo de software y estoy proximo a graduarme en HENRY un bootcamp que estoy haciendo hace ya 6 meses en el cual he <br>aprendido mucho y poco a poco estoy avanzando en varios lenguajes de programacion como lo son JAVASCRIPT,CSS ,EXPRESS,NEXT,HAPI,MONGO,SQL,HTML <br>me siento orgullosos de estar en esta comunidad y tener un grupo de amigos con los cuales he ido desarrolando habilidades<br>para el desarrolo de software en distintos campos, ahora me siento con mas conocimientos y ganas de aprender mas y enfocarme mas en profundizar mas lenguajes<br>y crear mas proyectos en individual tanto como grupal, soy una persona que escucha concejos aprendo a ritmo rapido y me esfuerzo por aprender cada dia mas,<br>me gusta trabajar en grupo y aportar con mis ideas una solucion rapida y dinamica de los diferentes proyectos en los que he estado.<br>mis hobbies son las motos y la tecnologia, me pueden contactar en mis difrentes redes como lo son:<br>email: jhondcorrearuiz@gmail.com<br>https://www.linkedin.com/in/jhon-correa/<br>git hub:jhoncorre
+Desarrollador Full Stack con experiencia en tecnologías de frontend y backend, y me especializo en trabajar con Node.js, Express, Hapi, MongoDB y PostgreSQL . En el frontend, cuento con experiencia en React, Javascript, Redux, HTML, CSS y Bootstrap para el desarrollo de aplicaciones web. 
+
+Me considero una persona que aprende rápido y estoy enfocado en profundizar mis conocimientos en lenguajes de programación y crear más proyectos tanto en solitario como en equipo.
+
+Además, soy un colaborador de equipo apasionado, siempre busco soluciones rápidas y dinámicas para los diferentes proyectos en los que he trabajado. En mi tiempo libre, disfruto de los viajes en moto y mantenerme actualizado sobre las últimas tendencias tecnológicas.
+
+Si necesitas un desarrollador de software confiable y apasionado, no dudes en contactarme.:<br>email: jhondcorrearuiz@gmail.com<br>https://www.linkedin.com/in/jhon-correa/<br>git hub:jhoncorre
 
 
 ## 🌐 Socials:
